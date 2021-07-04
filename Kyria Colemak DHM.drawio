@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T00:52:41.197Z" agent="5.0 (Windows)" etag="O1uvtgNuVCZtu5E1OzKf" version="14.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-04T00:53:35.389Z" agent="5.0 (Windows)" etag="k7R8EcfbJQd3ELnivlHi" version="14.8.0" type="github" pages="3">
   <diagram id="nIPOBnqDMpIqWjdKk-vt" name="CUSTOM">
     <mxGraphModel dx="1209" dy="735" grid="0" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" background="#FFF7E0" math="0" shadow="1">
       <root>
@@ -2737,7 +2737,7 @@
           <mxGeometry x="789" y="6" width="81" height="21" as="geometry" />
         </mxCell>
         <mxCell id="pPXrunuNfLHn9wdPIpZp-428" value="&lt;div&gt;LEAD + QWE --&amp;gt; _QWERTY&lt;/div&gt;&lt;div&gt;LEAD + COL --&amp;gt; _COLEMAK&lt;br&gt;LEAD + COLHR --&amp;gt; COLEMAK HOMEROW&lt;br&gt;LEAD + COLAS -&amp;gt; COLEMAK AUTOSHIFT&lt;br&gt;&lt;/div&gt; " style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;flipH=1;flipV=1;" parent="pPXrunuNfLHn9wdPIpZp-1" vertex="1">
-          <mxGeometry x="33" y="676" width="381" height="70" as="geometry" />
+          <mxGeometry x="30" y="543" width="381" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pPXrunuNfLHn9wdPIpZp-429" value="" style="group" parent="pPXrunuNfLHn9wdPIpZp-1" vertex="1" connectable="0">
           <mxGeometry x="35.94022988505748" y="190" width="433.0597701149425" height="149.17942641202785" as="geometry" />
