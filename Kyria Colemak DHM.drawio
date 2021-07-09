@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T22:17:53.215Z" agent="5.0 (Windows)" etag="9o79qx2-DGX4CP58MqGp" version="14.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-09T22:30:17.257Z" agent="5.0 (Windows)" etag="ZXqtyDPpXJ-H8oeGExDS" version="14.8.0" type="github" pages="3">
   <diagram id="nIPOBnqDMpIqWjdKk-vt" name="CUSTOM">
     <mxGraphModel dx="953" dy="599" grid="0" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" background="#FFF7E0" math="0" shadow="1">
       <root>
@@ -373,7 +373,7 @@
         <mxCell id="eZgq00gZfDjsTe4X8VJG-231" value="&lt;span class=&quot;box&quot;&gt;WIN&lt;/span&gt;&lt;div&gt;&lt;span class=&quot;box&quot; style=&quot;font-size: 10px&quot;&gt;(&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;box&quot; style=&quot;font-size: 10px&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;box&quot; style=&quot;font-size: 10px&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#b85450;rounded=1;strokeWidth=1;shadow=0;fillColor=#f8cecc;sketch=0;glass=0;fontSize=10;spacing=0;gradientColor=#ea6b66;" parent="eZgq00gZfDjsTe4X8VJG-213" vertex="1">
           <mxGeometry x="88" y="89" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="eZgq00gZfDjsTe4X8VJG-232" value="&lt;font style=&quot;font-size: 9px&quot;&gt;ALT&lt;br&gt;´ &lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#b85450;rounded=1;strokeWidth=1;shadow=0;fillColor=#f8cecc;sketch=0;glass=0;rotation=15;fontSize=8;spacing=0;gradientColor=#ea6b66;" parent="eZgq00gZfDjsTe4X8VJG-213" vertex="1">
+        <mxCell id="eZgq00gZfDjsTe4X8VJG-232" value="&lt;font style=&quot;font-size: 9px&quot;&gt;ALT&lt;br&gt;ACC&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#b85450;rounded=1;strokeWidth=1;shadow=0;fillColor=#f8cecc;sketch=0;glass=0;rotation=15;fontSize=8;spacing=0;gradientColor=#ea6b66;" parent="eZgq00gZfDjsTe4X8VJG-213" vertex="1">
           <mxGeometry x="117" y="94" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="eZgq00gZfDjsTe4X8VJG-233" value="SYM&lt;br&gt;REP" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d6b656;rounded=1;strokeWidth=1;shadow=0;fillColor=#fff2cc;sketch=0;glass=0;rotation=30;fontSize=9;spacing=0;gradientColor=#ffd966;" parent="eZgq00gZfDjsTe4X8VJG-213" vertex="1">
@@ -1282,7 +1282,7 @@
         <mxCell id="e7tmv_hyE2wDYwFMpxs5-166" value="&lt;div style=&quot;font-size: 8px&quot;&gt;_COLEMAK&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;OS Shift, 2xShit -&amp;gt; lock.&lt;br&gt;NPAD is TT -&amp;gt; MO+ 2xTap togle&lt;br&gt;NAV+SYM = MOUSE&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;flipH=1;flipV=1;" parent="e7tmv_hyE2wDYwFMpxs5-115" vertex="1">
           <mxGeometry x="150.65287356321838" width="129.70114942528735" height="70.00102484804574" as="geometry" />
         </mxCell>
-        <mxCell id="e7tmv_hyE2wDYwFMpxs5-167" value="&lt;font style=&quot;font-size: 9px&quot;&gt;ALT&lt;br&gt;´ &lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#b85450;rounded=1;strokeWidth=1;shadow=0;fillColor=#f8cecc;sketch=0;glass=0;rotation=15;fontSize=8;spacing=0;flipH=1;flipV=1;gradientColor=#ea6b66;" parent="e7tmv_hyE2wDYwFMpxs5-115" vertex="1">
+        <mxCell id="e7tmv_hyE2wDYwFMpxs5-167" value="&lt;font style=&quot;font-size: 9px&quot;&gt;ALT&lt;br&gt;ACC&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#b85450;rounded=1;strokeWidth=1;shadow=0;fillColor=#f8cecc;sketch=0;glass=0;rotation=15;fontSize=8;spacing=0;flipH=1;flipV=1;gradientColor=#ea6b66;" parent="e7tmv_hyE2wDYwFMpxs5-115" vertex="1">
           <mxGeometry x="116.73103448275862" y="91.37134694314568" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="e7tmv_hyE2wDYwFMpxs5-168" value="SYM&lt;br style=&quot;font-size: 8px;&quot;&gt;REP" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d6b656;rounded=1;strokeWidth=1;shadow=0;fillColor=#fff2cc;sketch=0;glass=0;rotation=30;fontSize=9;spacing=0;flipH=1;flipV=1;gradientColor=#ffd966;" parent="e7tmv_hyE2wDYwFMpxs5-115" vertex="1">
