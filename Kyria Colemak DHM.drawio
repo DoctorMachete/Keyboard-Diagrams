@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T14:07:42.927Z" agent="5.0 (Windows)" etag="GxpIdU2XScJBBpB_5dFG" version="14.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-12T21:39:58.434Z" agent="5.0 (Windows)" etag="lQTxL4ocZ6fSmL2CK_kN" version="14.8.0" type="github" pages="4">
   <diagram id="nIPOBnqDMpIqWjdKk-vt" name="CUSTOM">
-    <mxGraphModel dx="657" dy="413" grid="0" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" background="#FFF7E0" math="0" shadow="1">
+    <mxGraphModel dx="794" dy="499" grid="0" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" background="#FFF7E0" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -940,7 +940,7 @@
         <mxCell id="bLXt6uk3_31woj0mwxag-104" value="_EXTRA&lt;br&gt;&lt;br&gt;SYM+NAV&lt;br&gt;Several shortcuts and Multimedia&lt;br&gt;&lt;br&gt;TD(Set Macro) -&amp;gt; stop, record" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontStyle=0;" parent="bLXt6uk3_31woj0mwxag-53" vertex="1">
           <mxGeometry x="151" y="2" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bLXt6uk3_31woj0mwxag-106" value="MOD TAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
+        <mxCell id="bLXt6uk3_31woj0mwxag-106" value="MOD / MT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="6" y="6" width="81" height="21" as="geometry" />
         </mxCell>
         <mxCell id="bLXt6uk3_31woj0mwxag-107" value="AUTOSHIFT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
@@ -1108,7 +1108,7 @@
         <mxCell id="eZgq00gZfDjsTe4X8VJG-212" value="&lt;div style=&quot;font-size: 8px&quot;&gt;_QWERTY&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;TD(Macro) -&amp;gt; launch, stop, record&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="bLXt6uk3_31woj0mwxag-114" vertex="1">
           <mxGeometry x="151" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-SUU27cW8T-WfyJls4K--157" value="LAYER" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="-SUU27cW8T-WfyJls4K--157" value="LAYER / LT" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="354" y="6" width="81" height="21" as="geometry" />
         </mxCell>
         <mxCell id="44sVivWkQak0jUAd5Qt2-138" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#121212;shadow=0;glass=0;sketch=1;fontStyle=1;strokeColor=#314354;gradientDirection=south;" parent="1" vertex="1">
