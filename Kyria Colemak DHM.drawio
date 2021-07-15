@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T21:55:04.624Z" agent="5.0 (Windows)" etag="RGl6GQJqtVyyOesWVV4Y" version="14.8.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-15T23:03:24.835Z" agent="5.0 (Windows)" etag="hAOdmbsQNcnja7QeSZRY" version="14.8.6" type="github" pages="3">
   <diagram id="nIPOBnqDMpIqWjdKk-vt" name="CUSTOM">
     <mxGraphModel dx="1209" dy="735" grid="0" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" background="#FFF7E0" math="0" shadow="1">
       <root>
@@ -1189,7 +1189,7 @@
         <mxCell id="e7tmv_hyE2wDYwFMpxs5-54" value="MACRO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;gradientDirection=south;sketch=0;glass=0;gradientColor=#FFFF00;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="789" y="6" width="81" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="e7tmv_hyE2wDYwFMpxs5-58" value="&lt;div&gt;LEAD + QWE --&amp;gt; _QWERTY&lt;/div&gt;&lt;div&gt;LEAD + COL --&amp;gt; _COLEMAK&lt;br&gt;LEAD + COLHR --&amp;gt; COLEMAK HOMEROW&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; state = update_tri_layer_state(state, _FUNC, _NPAD, _EXTRA);&lt;br&gt;&amp;nbsp; state = update_tri_layer_state(state, _NAV, _NPAD, _MACRO);&lt;br&gt;&lt;/div&gt; " style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;flipH=1;flipV=1;" parent="1" vertex="1">
+        <mxCell id="e7tmv_hyE2wDYwFMpxs5-58" value="&lt;div&gt;LEAD + QWE --&amp;gt; _QWERTY&lt;/div&gt;&lt;div&gt;LEAD + COL --&amp;gt; _COLEMAK&lt;br&gt;LEAD + COLHR --&amp;gt; COLEMAK HOMEROW&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; state = update_tri_layer_state(state, _FUNC, _NPAD, _EXTRA);&lt;br&gt;&amp;nbsp; state = update_tri_layer_state(state, _NAV, _NPAD, _SHORTCUTS);&lt;br&gt;&lt;/div&gt; " style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;flipH=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="29.999999999999996" y="524" width="381" height="70" as="geometry" />
         </mxCell>
         <mxCell id="e7tmv_hyE2wDYwFMpxs5-115" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -1666,7 +1666,7 @@
         <mxCell id="0HalPilgD1w5dpSo7Mwn-112" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=9;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;gradientColor=#b3b3b3;" parent="0HalPilgD1w5dpSo7Mwn-62" vertex="1">
           <mxGeometry x="351" y="90.09904690569478" width="31" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="0HalPilgD1w5dpSo7Mwn-113" value="_MACRO&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontStyle=0;" parent="0HalPilgD1w5dpSo7Mwn-62" vertex="1">
+        <mxCell id="0HalPilgD1w5dpSo7Mwn-113" value="_SHORTCUTS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontStyle=0;" parent="0HalPilgD1w5dpSo7Mwn-62" vertex="1">
           <mxGeometry x="151" y="2" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pO79XOLdRS-nis-7pUgQ-1" value="PENDING" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B20000;fontColor=#ffffff;fillColor=#e51400;sketch=0;glass=0;fontSize=12;gradientDirection=south;" parent="1" vertex="1">
