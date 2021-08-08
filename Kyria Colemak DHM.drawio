@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-08T22:28:20.860Z" agent="5.0 (Windows)" etag="1BJpjyVV6O8W_xqJXHVX" version="14.9.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-08-08T22:29:15.027Z" agent="5.0 (Windows)" etag="6UczX57JlhNijOtYN9eq" version="14.9.2" type="github" pages="3">
   <diagram id="nIPOBnqDMpIqWjdKk-vt" name="CUSTOM">
     <mxGraphModel dx="2061" dy="667" grid="0" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="819" background="#FFF7E0" math="0" shadow="0">
       <root>
@@ -1900,8 +1900,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vAS5EY2pIiQSDr9_V8G0-2" value="$" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=13;glass=1;sketch=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-86" y="393" width="41" height="23" as="geometry" />
+        <mxCell id="vAS5EY2pIiQSDr9_V8G0-2" value="$" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=13;glass=1;sketch=1;fillColor=none;fontColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="-134" y="413.09" width="41" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
