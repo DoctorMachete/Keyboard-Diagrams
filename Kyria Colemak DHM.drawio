@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-10T02:31:01.458Z" agent="5.0 (Windows)" etag="4FvH29x7d1RPnStOv8cb" version="14.9.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-08-10T02:36:07.022Z" agent="5.0 (Windows)" etag="nIYFwjQhhCI5rlyJUYnP" version="14.9.2" type="github" pages="3">
   <diagram id="nIPOBnqDMpIqWjdKk-vt" name="CUSTOM">
     <mxGraphModel dx="834" dy="507" grid="0" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="819" background="#FFF7E0" math="0" shadow="0">
       <root>
@@ -2122,11 +2122,8 @@
         <mxCell id="vAS5EY2pIiQSDr9_V8G0-210" value="&amp;lt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;glass=0;sketch=0;fillColor=none;strokeColor=none;fontColor=#FF00FF;fontStyle=1;" parent="vAS5EY2pIiQSDr9_V8G0-4" vertex="1">
           <mxGeometry x="69" y="60.779999999999745" width="12" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="vAS5EY2pIiQSDr9_V8G0-211" value="$" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;glass=0;sketch=0;fillColor=none;strokeColor=none;fontColor=#FF00FF;fontStyle=1;" parent="vAS5EY2pIiQSDr9_V8G0-4" vertex="1">
+        <mxCell id="vAS5EY2pIiQSDr9_V8G0-211" value="#" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;glass=0;sketch=0;fillColor=none;strokeColor=none;fontColor=#FF00FF;fontStyle=1;" parent="vAS5EY2pIiQSDr9_V8G0-4" vertex="1">
           <mxGeometry x="69" y="9.100000000000037" width="12" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="vAS5EY2pIiQSDr9_V8G0-212" value="#" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;glass=0;sketch=0;fillColor=none;strokeColor=none;fontColor=#FF00FF;fontStyle=1;" parent="vAS5EY2pIiQSDr9_V8G0-4" vertex="1">
-          <mxGeometry x="45" y="45.309999999999945" width="12" height="18" as="geometry" />
         </mxCell>
         <mxCell id="vAS5EY2pIiQSDr9_V8G0-239" value="€" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;glass=0;sketch=0;fillColor=none;fontColor=#FF00FF;strokeColor=none;fontStyle=1" parent="vAS5EY2pIiQSDr9_V8G0-4" vertex="1">
           <mxGeometry x="339.5" y="18.3900000000001" width="12" height="18" as="geometry" />
