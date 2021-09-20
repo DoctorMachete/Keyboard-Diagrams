@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T02:53:42.975Z" agent="5.0 (Windows)" etag="iUFC_yU4qzxumyBiU7kr" version="14.9.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-20T02:53:53.482Z" agent="5.0 (Windows)" etag="DXADj2giE_Yx7vjoz--Y" version="14.9.2" type="github" pages="2">
   <diagram id="nIPOBnqDMpIqWjdKk-vt" name="CUSTOM">
     <mxGraphModel dx="618" dy="381" grid="0" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="680" background="#FFF7E0" math="0" shadow="0">
       <root>
@@ -2699,9 +2699,6 @@
         </mxCell>
         <mxCell id="0wNuTWjE1UA2zXCK6bOv-182" value="∞" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;gradientColor=#FF740A;arcSize=42;fontSize=13;opacity=30;strokeWidth=0;fillColor=#FFFBD9;glass=0;spacingBottom=1;" vertex="1" parent="0wNuTWjE1UA2zXCK6bOv-123">
           <mxGeometry x="130" y="64" width="23" height="13" as="geometry" />
-        </mxCell>
-        <mxCell id="0wNuTWjE1UA2zXCK6bOv-181" value="∞" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1.6;shadow=0;sketch=0;glass=1;fontSize=14;spacing=0;fillColor=#B3B3B3;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="118.00000000000003" width="25" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
