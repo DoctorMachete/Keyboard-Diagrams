@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T02:58:00.182Z" agent="5.0 (Windows)" etag="zoJuh_VhBJ2AusrKR2lk" version="14.9.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-20T03:32:38.413Z" agent="5.0 (Windows)" etag="nH_gxC3vyIK6Y48raZew" version="14.9.2" type="github" pages="2">
   <diagram id="nIPOBnqDMpIqWjdKk-vt" name="CUSTOM">
-    <mxGraphModel dx="901" dy="556" grid="0" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="680" background="#FFF7E0" math="0" shadow="0">
+    <mxGraphModel dx="1881" dy="556" grid="0" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="680" background="#FFF7E0" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2699,6 +2699,9 @@
         </mxCell>
         <mxCell id="0wNuTWjE1UA2zXCK6bOv-182" value="∞" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;gradientColor=#FF740A;arcSize=42;fontSize=13;opacity=30;strokeWidth=0;fillColor=#FFFBD9;glass=0;spacingBottom=1;" vertex="1" parent="0wNuTWjE1UA2zXCK6bOv-123">
           <mxGeometry x="130" y="64" width="23" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="0wNuTWjE1UA2zXCK6bOv-185" value="IDEA: when typing X other alpha it works normally but if if after space it waits for a sequence like REP-HOLD. For example &#39;XE &#39; types &#39;then &#39;, or maybe use the alternate version of LEADER without timers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;strokeColor=#F70000;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-107" y="53" width="299" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
